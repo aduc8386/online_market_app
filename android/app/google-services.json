@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875014661886",
+    "project_id": "funix-online-market-app",
+    "storage_bucket": "funix-online-market-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875014661886:android:8a832461af9fbb702f27af",
+        "android_client_info": {
+          "package_name": "funix.aduc8386.funixassignment.funix_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875014661886-eu6erbkj0v5bet4o3k858j09he1ud33a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNk21hCq4ZWB6N2ooYId6oUJgpQHTh20E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875014661886-eu6erbkj0v5bet4o3k858j09he1ud33a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
